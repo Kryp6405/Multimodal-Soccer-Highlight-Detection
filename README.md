@@ -1,5 +1,4 @@
 # Multimodal Soccer Highlight Detection
 
-**Paper Link**
+[Paper Link](tinyurl.com/multimodal-hd-paper)
 
-tinyurl.com/multimodal-hd-paper
